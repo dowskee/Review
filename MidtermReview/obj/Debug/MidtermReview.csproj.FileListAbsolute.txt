@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe.config
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\bin\Debug\MidtermReview.pdb
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\obj\Debug\MidtermReview.exe
+C:\Users\sharon\source\repos\MidtermReview\MidtermReview\obj\Debug\MidtermReview.pdb
